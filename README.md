@@ -52,7 +52,7 @@ Languages    → JavaScript | Python 🐍
 ────────────────────────────────────────────
 </pre>
 
-<img src="https://github-readme-stats.vercel.app/api?username=c-akanksha&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=c-akanksha&show_icons=true&theme=radical&layout=compact" />
 
 </div>
 
