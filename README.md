@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=700&color=000&center=true&vCenter=true&width=550&lines=Booting+AkankshaOS...;Loading+Senior+Software+Engineer...;Activating+Frontend+%2B+BFF+Mode...;System+Online+✅" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=700&color=777&center=true&vCenter=true&width=550&lines=Booting+AkankshaOS...;Loading+Senior+Software+Engineer...;Activating+Frontend+%2B+BFF+Mode...;System+Online+✅" alt="Typing Animation"/>
 
 </div>
 
