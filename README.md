@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=700&color=777&center=true&vCenter=true&width=550&lines=Booting+AkankshaOS...;Loading+Senior+Software+Engineer...;Activating+Frontend+%2B+BFF+Mode...;System+Online+✅" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=700&color=777&center=true&vCenter=true&width=550&lines=Booting+AkankshaOS...;Loading+Senior+Software+Engineer...;Activating+Frontend+%2B+BFF+Mode...;Exploring+AI+Mode...;System+Online+✅" alt="Typing Animation"/>
 
 </div>
 
@@ -52,7 +52,7 @@ Languages    → JavaScript | Python 🐍
 ────────────────────────────────────────────
 </pre>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=c-akanksha&show_icons=true&theme=radical&layout=compact" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs?username=c-akanksha&show_icons=true&theme=radical&layout=compact" />
 
 </div>
 
